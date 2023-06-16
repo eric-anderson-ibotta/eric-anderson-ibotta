@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eric-anderson-ibotta at work and @grizzlyanderson on my own
-- 👀 A lot of things that have nothing to do with software. I'm a Sr. Engineer on the Product Graph Squad, mostly backend, mosty Java. I also mess around with Raspberry Pi for some simple personal projects.
+- 👀 A lot of things that have nothing to do with software. I'm a Staff Engineer on the Product Graph Squad, mostly backend, mostly serverless, mosty ~~Java~~ Typescript. I also mess around with Raspberry Pi for some simple personal projects.
 - 🌱 I enjoy Go and mess with it off and on.
 - 📫 How to reach me I'm my name at ibotta dot com
 
